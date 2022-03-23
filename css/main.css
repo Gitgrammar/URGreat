@@ -6,7 +6,7 @@ header{
    
 }
 header h1{
-
+border-radius: 15px;
    background-color:#B0BEC5;
  position:absolute;
     top:0;
@@ -15,6 +15,10 @@ header h1{
     vertical-align: middle;
     text-align: center;
     opacity: 75%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom:10px;
     
     
 }
@@ -24,14 +28,23 @@ header h2{
     text-align: center;
 }
 #menu-menu{
+border-radius:15px;
 background-color: #E0F2F1;
-opacity: 80%;}
+opacity: 80%;
+margin-top:100px;
+margin-bottom: 10px;
+}
+
 main h3{
-    width: 700px;
-    margin-right:400px;
-    margin-bottom: -29px;
-    margin-left: 300px;
-background-color:#E6EE9C;
+border-radius:3px;
+text-align: left;
+width: 555px;
+height: 30px;
+margin-right:400px;
+margin-bottom: -29px;
+margin-left: 143px;
+background-color:black;
+color :white;
 opacity:80%;
 }
 .imgFull{
