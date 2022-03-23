@@ -7,7 +7,7 @@ header{
 }
 header h1{
 
-   background-color: lightgrey;
+   background-color:#B0BEC5;
  position:absolute;
     top:0;
     width: 100%;
@@ -24,14 +24,14 @@ header h2{
     text-align: center;
 }
 #menu-menu{
-background-color: aqua;
+background-color: #E0F2F1;
 opacity: 80%;}
 main h3{
     width: 700px;
     margin-right:400px;
     margin-bottom: -29px;
     margin-left: 300px;
-background-color:yellow;
+background-color:#E6EE9C;
 opacity:80%;
 }
 .imgFull{
