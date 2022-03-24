@@ -33,6 +33,36 @@ background-color: #E0F2F1;
 opacity: 80%;
 margin-top:122px;
 margin-bottom: 10px;
+
+}
+.nav>li>a:hover{background-color: blue;
+    color: white;}
+ .nav>li>a:active{
+        background-color: lightpink;
+        color: white;
+    }
+#menu-item-611{
+    display: inline-block;
+    animation:prunprun 2.2s ease-in infinite;
+    -webkit-animation: prunprun 2.2s ease-in infinite;
+    -moz-animation: prunprun 2.2s ease-in infinite;
+    -o-animation: prunprun 2.2s ease-in infinite;
+    -ms-animation:prunprun 2.2 ease-in infinite;
+    
+
+}
+
+@keyframes prunprun{
+    48%,62%{transform:scale(1.0,1.0);}
+    50%{transform: scale(1.1,0.9);}
+    56%{transform: scale(0.9,1.1)translate(0,-5px);}
+    59%{transform: scale(1.0,1.0)translate(0,-3px);}
+}
+@-webkit-keyframes prunprun{
+    48%,62%{transform:scale(1.0,1.0);}
+    50%{transform: scale(1.1,0.9);}
+    56%{transform: scale(0.9,1.1)translate(0,-5px);}
+    59%{transform: scale(1.0,1.0)translate(0,-3px);}
 }
 
 main h3{
@@ -69,7 +99,7 @@ margin-left: auto;
 
 .nav>li{
     display: inline-block;
-    padding-right: 25px;
+    padding-right:25px;
   
 }
 .nav>li>a{
