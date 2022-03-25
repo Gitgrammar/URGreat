@@ -36,6 +36,9 @@ margin-top:8px;
 margin-bottom: 10px;
 
 }
+.ytp-cued-thumbnail-overlay-image {
+    width: 70%;
+}
 .nav>li>a:hover{background-color: blue;
     color: white;}
  .nav>li>a:active{
@@ -121,8 +124,8 @@ margin-top:40px;
 #player{
     padding:10px,30px,10px,30px;
 }
-.discription h3{
-    width: 535px;
+.discription h2{
+    width: 348px;
   margin-top: 10px;
    margin-bottom: 20px;
    margin-left:5px;
