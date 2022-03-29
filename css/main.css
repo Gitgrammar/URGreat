@@ -86,7 +86,7 @@ height: 44px;
 margin-right:400px;
 margin-top:30px;
 margin-bottom: -29px;
-margin-left: -13px;
+margin-left: -100px;
 background-color:black;
 color :white;
 padding-left: 20px;
@@ -94,6 +94,9 @@ opacity:80%;
 }
 .gokubuto{
     font-size: 30px;
+    text-align: center;
+    display: block;
+    margin:0 auto;
 }
 .futo{
    font-size:  24px;
