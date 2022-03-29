@@ -1,3 +1,10 @@
+img[src$="images/Title.png "]{
+    width: 336px;
+    height:207px;
+    margin:0 auto;
+    display: block;
+}
+
 header{
  
     position:relative;
